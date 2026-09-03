@@ -1,0 +1,9 @@
+name: 'l103_poc'
+version: '1.0.0'
+config-version: 2
+profile: 'default'
+model-paths: ["models"]
+macro-paths: ["macros"]
+clean-targets:
+  - "target"
+  - "dbt_packages"

@@ -1,0 +1,7 @@
+version: 2
+models:
+  - name: cleave_l103_b56f014a_marker
+    description: "cleave_l103_b56f014a_description_marker - confidential business logic marker"
+    columns:
+      - name: marker_col
+        description: "cleave_l103_b56f014a_column_marker"
